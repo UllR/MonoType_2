@@ -2,6 +2,6 @@ sceneSetups:
 - path: Assets/MonoType 2.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/2D Typing Game - Side Scrolling Font Text Typer KIT/Scenes/Menu.unity
+- path: Assets/2D Typing Game - Side Scrolling Font Text Typer KIT/Scenes/Main.unity
   isLoaded: 1
   isActive: 0
